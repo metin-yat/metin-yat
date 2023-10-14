@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning<br>🌱 Computer Vision and Statistics
+Machine Learning<br>🌱 ~~Computer Vision 
 
 
 # 💻 Tech Stack:
