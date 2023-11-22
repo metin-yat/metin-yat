@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning<br>🌱 ~~Computer Vision 
+Mostly working on Computer Vision projects but definitely one of a AI Enthusiasts. 
 
 
 # 💻 Tech Stack:
