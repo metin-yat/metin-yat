@@ -15,5 +15,5 @@ I was working on Web Development with technologies like Django, Reactjs and done
 - Linux (Ubuntu/ 2+ years)
 - CUDA (Basics and used for Gazebo and ROS)
 - Django & Flask (0.5+) 
-- 3D Reconstruction and Blender
+- 3D Reconstruction and Blender (NeRF and GSplat)
 
