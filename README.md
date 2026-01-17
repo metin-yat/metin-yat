@@ -3,17 +3,20 @@
 
 I was working on Web Development with technologies like Django, Reactjs and done basic level websites. After working on several hobby kinda projects with Reactjs (like cloning gmail web page) I started working on Machine Learning. Learned many models and worked with them (XGBoost, Catboost etc.).
 
+Currently my focus is production-ready AI apps and 3D Reconstruction.
+
 ## Tech Skills
 
-- Python (3.5+ years)
-- MATLAB & C/C++(Basics+)
-- Machine Learning (2+ years)
-- Computer Vision(1.5+ years)
-- Research & Development (1.5+)
+- Python (5+ years)
+- MATLAB & C/C++(Basics++)
+- Machine Learning (4 years)
+- Computer Vision(3.5+ years)
+- Research & Development (2.5+)
 - Docker 
 - AWS (Basics)
 - Linux (Ubuntu/ 2+ years)
-- CUDA (Basics and used for Gazebo and ROS)
+- CUDA (Basics + used w Gazebo and ROS)
 - Django & Flask (0.5+) 
-- 3D Reconstruction and Blender (NeRF and GSplat)
+- 3D Reconstruction (NeRF and GSplat)
+- Blender (Beginner)
 
